@@ -5,7 +5,7 @@ A text game where you need to find your keys to get inside before you die of deh
 Waking up outside on your deck after a party the previous night, you realize you are extremely dehydrated after sleeping in the sun all morning. The goal is to get back inside to relax and recuperate! 
 
 ## Locations:
-1. **Your deck**: You woke up here without your shoes. The beginning and potentially end of your adventure, but, unfortunately, the back door is a sliding one and the bar is down.
+1. **Your deck**: You woke up here without your shoes. The beginning, and potentially end, of your adventure, but, unfortunately, the back door is a sliding one and the bar is down.
 2. **Your front yard**: Severely damaged area, except the front door to your house. That's working fine, and it's locked.
 3. **Your side yard**: Who uses the side yard anyways? You certainly don't, and it shows. Contains lots of overgrown foilage, and since apparently no one decided to use the trashcan, broken bottles litter the ground. Not safe to search in without shoes and gloves.
 4. **Your backyard**: A depressingly small space that shows off your lack of a green thumb. It's become a mudpit, potentially concealing something important.
