@@ -142,15 +142,20 @@
 ;; Updates the state with a move to a new location.
 ;; Checks win status as it is only possible to reach the goal is through a move
 (define (move-location target-location state)
-  (let* ([updated-state (update-state
+  (let ([current-name (location-name (game-state-current-location state))]
+        [updated-state (update-state
                          target-location
                          (game-state-inventory state)
                          (+ 1 (game-state-num-actions state))
                          (game-state-visited-locations state))])
-    (if (check-win-condition updated-state)
-        (win-game)
-        updated-state))
-  )
+    (cond
+      [(string=? current-name (location-name target-location))
+       (displayln "Why are you standing around doing nothing? You're dying out here!")
+          updated-state]
+    [(check-win-condition updated-state)
+        (win-game)]
+    [else updated-state]
+        )))
 
 ;; Searches the current location for hidden items.
 (define (search-current-location state)
