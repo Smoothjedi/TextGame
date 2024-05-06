@@ -18,7 +18,7 @@ Waking up outside on your deck after a party the previous night, you realize you
 1. Well, you could kick the front door down, but you've already got enough damage to your yard and house to not make that economically feasible. Plus, your strength is waning from being dehydrated. Find your house key so you can get to the front yard and subsequently inside before you succumb to the elements!
 2. You're sick from dehydration, and it's wearing on you. Your clock is ticking, and if you're not able to get inside in 12 actions (search, move, item manipulation), you're done for.
 ## Sources used:
-ChatGPT 3.5, my previous assignments, looked at the stateful game given as an example, but did not use it
+ChatGPT 3.5; my previous assignments; looked at the [stateful game](https://queue.acm.org/detail.cfm?id=2068896) given as an example, but did not use it
 ## Optional Features:
 1. **Time Limit**: The game has a twelve action limit. You just don't have enough endurance to make it any further. The minimum to complete the game, if I counted correctly, is 8 actions. At the beginning of each turn, your status can escalate in severity until the game ends.
 2. **Multiple endings**: Everyone would love to get back in their house and have an enjoyable day, which is one of the endings, however, if you take too long it's quite possible you'll never make it back inside.
