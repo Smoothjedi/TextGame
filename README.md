@@ -14,6 +14,12 @@ Waking up outside on your deck after a party the previous night, you realize you
 2. Your **right shoe**: You have a faint recollection of possibly losing this in the front yard.
 3. Your **work gloves**: You usually keep these hanging up over your deck for miscellaneous projects.
 4. Your **house key**: It's anyone's guess where this went, which is disappointing since that's what you are missing to get inside. Might be worth checking the side yard, but it's treacherous over there.
+## Actions:
+![image](https://github.com/Smoothjedi/TextGame/assets/55415231/5f1f9d91-f2ee-4d95-97e8-e7ab4f8f2616)
+You have options to move to the four different locations.
+Location based options, such as describe, search and moving will change based on the current location.
+Restart begins the game again with a fresh state.
+Quit will exit immediately after a short message.
 ## Goal state:
 1. Well, you could kick the front door down, but you've already got enough damage to your yard and house to not make that economically feasible. Plus, your strength is waning from being dehydrated. Find your house key so you can get to the front yard and subsequently inside before you succumb to the elements!
 2. You're sick from dehydration, and it's wearing on you. Your clock is ticking, and if you're not able to get inside in 12 actions (search, move, item manipulation), you're done for.
